@@ -10,4 +10,4 @@ UrlNativeAdsBegin##{https://play.google.com/store/apps/details?id=com.google.and
 //set url image
 UrlNativeAdsImageBegin##{https://nbuicool.github.io/FirstCompte_Ios/icona-pumpkin.png}##LastUrlNativeAdsImage
 UrlSuspendBegin##{https://play.google.com/store/apps/details?id=com.google.android.youtube}##LastUrlSuspend
-IsIsuspendBegin##{true}##LastIsIsuspend
+IsIsuspendBegin##{false}##LastIsIsuspend
