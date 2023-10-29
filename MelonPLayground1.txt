@@ -1,0 +1,13 @@
+//appKey IronSource
+AppKeyBegin##{1be32b94d}##LastAppKey
+moregameBegin##{tt}##Lastmoregame
+SheireBegin##{ttt}##Sheiregame
+UrlRateUsBegin##{ttt}##LastUrlRateUs
+// to show Native set true
+IsNativeOpenBegin##{false}##LastIsNativeOpen
+//set url buttton
+UrlNativeAdsBegin##{https://play.google.com/store/apps/details?id=com.google.android.youtube}##LastUrlNativeAds
+//set url image
+UrlNativeAdsImageBegin##{https://nbuicool.github.io/FirstCompte_Ios/icona-pumpkin.png}##LastUrlNativeAdsImage
+UrlSuspendBegin##{https://play.google.com/store/apps/details?id=com.google.android.youtube}##LastUrlSuspend
+IsIsuspendBegin##{false}##LastIsIsuspend
