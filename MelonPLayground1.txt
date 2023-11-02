@@ -3,6 +3,9 @@ AppKeyBegin##{1be32b94d}##LastAppKey
 moregameBegin##{tt}##Lastmoregame
 SheireBegin##{ttt}##Sheiregame
 UrlRateUsBegin##{ttt}##LastUrlRateUs
+//Count Ads
+countAdsBegin##{4}##LastcountAds
+
 // to show Native set true
 IsNativeOpenBegin##{false}##LastIsNativeOpen
 //set url buttton
